@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **React Native, MERN Stack**
 
-- 💬 Ask me about **PHP, HTML, CSS**
-
 - 📫 How to reach me **akilatharuka555@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
